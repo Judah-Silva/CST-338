@@ -7,7 +7,7 @@ import java.time.LocalDate;
  */
 
 public class Book {
-    // Variables that hold indices for an array
+    // Variables that hold indices for an arra
     public static final int  ISBN_ = 0, TITLE_ = 1, SUBJECT_ = 2, PAGE_COUNT_ = 3, AUTHOR_ = 4, DUE_DATE_ = 5;
     // Each book has an isbn, a title, a subject, an author, a page count, and a due date.
     private String isbn, title, subject, author;
